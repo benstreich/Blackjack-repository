@@ -7,5 +7,7 @@ I'd like some feedback on what I can improve on.
 But I am still working on it...Little details aren't yet ready but the whole game is completly functional. <br>
 You are welcome to go ahead and fork this project - you have my permission ;)
 
-
-
+<h1 align="center">Game</h1>
+The game is in english so most people should understand the controlls. You can switch between different options by using the arrow-up and arrow-down buttons.
+You can choose between "Play", "Rules", "Tutorials", "Options", "Exit". "Rules" should be self-explanatory, in "Tutorials" a bot runs you though the program and what to press and when. I'm pretty proud of this Tutorial mode. In "Options" there is the option to turn on "Support mode", the support mode, as the name suggests, is helping you on what to do. It's telling you what strategically is the best option (hit, stand, double down). The Color Option is still a work in progress...
+all right have fun with my project ;)
