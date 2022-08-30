@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Blackjack_Ben Streich/1.0.0": {
+        "runtime": {
+          "Blackjack_Ben Streich.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Blackjack_Ben Streich/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
